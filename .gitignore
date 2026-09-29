@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Large datasets / generated models
+data/denomination/
+data/damage_severity/
+*.h5
+*.keras
